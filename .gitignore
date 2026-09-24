@@ -1,0 +1,30 @@
+# secrets / local config
+.env
+*.env
+!.env.example
+
+# db + logs
+*.db
+*.db-journal
+*.sqlite3
+backend/*.db
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+
+# node
+node_modules/
+dist/
+.vite/
+
+# os
+.DS_Store
+
+# eval output
+eval/eval_results.json
+eval/eval_report.md

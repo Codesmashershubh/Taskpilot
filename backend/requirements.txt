@@ -1,0 +1,22 @@
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pydantic==2.10.3
+pydantic-settings==2.7.0
+python-dotenv==1.0.1
+APScheduler==3.10.4
+cryptography==43.0.3
+slowapi==0.1.9
+httpx==0.28.1
+
+# LLM providers (free tier) — only the one you configure is actually called
+groq==0.13.1
+google-generativeai==0.8.3
+
+# Gmail integration (free, OAuth) — only needed if EMAIL_SOURCE=gmail
+google-api-python-client==2.154.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+
+# testing
+pytest==8.3.4
+pytest-asyncio==0.25.0

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "mock-001",
+    "thread_id": "thread-001",
+    "sender": "Priya Nair <priya.nair@example.com>",
+    "subject": "Quick sync next week?",
+    "body": "Hi, are you available for a call next week to go over the roadmap? Wednesday afternoon works well on my end, but happy to adjust. Let me know what works for your calendar.",
+    "received_at": "2026-07-18T09:12:00+00:00"
+  },
+  {
+    "id": "mock-002",
+    "thread_id": "thread-002",
+    "sender": "Billing <billing@vendorcorp.example.com>",
+    "subject": "Invoice #4471 - payment due",
+    "body": "Hello, this is a reminder that invoice #4471 for $1,240.00 is now due. Please remit payment by 08/01. Let us know if you have any questions about the charges.",
+    "received_at": "2026-07-18T11:03:00+00:00"
+  },
+  {
+    "id": "mock-003",
+    "thread_id": "thread-003",
+    "sender": "Sam Osei <sam.osei@example.com>",
+    "subject": "Login not working after update",
+    "body": "Hi, since the last update I've been getting an error when I try to log in - it just says 'session expired' immediately. Can you help me figure out what's going on?",
+    "received_at": "2026-07-19T14:45:00+00:00"
+  },
+  {
+    "id": "mock-004",
+    "thread_id": "thread-004",
+    "sender": "Jordan Blake <jordan.blake@example.com>",
+    "subject": "Thoughts?",
+    "body": "Saw this and thought of you. No action needed, just wanted to share.",
+    "received_at": "2026-07-20T08:30:00+00:00"
+  }
+]
