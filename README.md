@@ -2,8 +2,7 @@
 
 An autonomous agent that watches a Gmail label, reads new email, drafts a
 reply, and logs the details to a tracking sheet — then waits for a human to
-approve before anything goes out. Built from the PRD in this repo, running
-entirely on free-tier resources on an 8GB machine.
+approve before anything goes out.
 
 **Zero-setup demo:** the app ships with a mock inbox and a deterministic
 mock "LLM" so you can see the full agent loop run in under two minutes,
