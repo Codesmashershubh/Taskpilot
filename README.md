@@ -222,14 +222,7 @@ Why this shape:
    safety guarantee that's enforced by the OAuth scope itself, not just
    application logic that could have a bug in it.
 
-## Resume bullet
 
-> Designed and built an autonomous agent that monitors Gmail and
-> independently drafts responses and logs action items, using a
-> plan-act-reflect loop with human-in-the-loop approval for external
-> actions. Achieved a 95% task success rate across a 20-email evaluation
-> suite, running entirely on free-tier cloud inference to keep local
-> resource use under 300MB RAM in development.
 
 ## Tests
 
